@@ -1,7 +1,10 @@
-@import url('./template/setting.css');
-@import url('./template/xxl/xxl.css') screen and (min-width:1400px);
-@import url('./template/xl/xl.css') screen and (min-width:1200px) and (max-width:1400px);
-@import url('./template/lg/lg.css') screen and (min-width:992px) and (max-width:1200px);
-@import url('./template/md/md.css') screen and (min-width:768px) and (max-width:992px);
-@import url('./template/sm/sm.css') screen and (min-width:576px) and (max-width:768px);
-@import url('./template/xs/xs.css') screen and (max-width:576px);
+// @import url('./template/setting.css');
+// @import url('./template/xxl/xxl.css') screen and (min-width:1400px);
+// @import url('./template/xl/xl.css') screen and (min-width:1200px) and (max-width:1400px);
+// @import url('./template/lg/lg.css') screen and (min-width:992px) and (max-width:1200px);
+// @import url('./template/md/md.css') screen and (min-width:768px) and (max-width:992px);
+// @import url('./template/sm/sm.css') screen and (min-width:576px) and (max-width:768px);
+// @import url('./template/xs/xs.css') screen and (max-width:576px);
+@import "./abstracts/variable" , "./abstracts/mixin";
+@import "./base/setting" , "./base/helpers" ;
+@import "./layout/header" , "./layout/product", "./layout/slider" , "./layout/responsibility" , "./layout/footer" ;
