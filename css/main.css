@@ -844,18 +844,15 @@ div.wrapper {
 /* xxl */
 @media screen and (min-width: 1400px) {
   div.product {
-    width: 100%;
     background-color: whitesmoke;
     position: relative;
     top: 80px; }
     div.product > div.tea {
-      width: inherit;
       display: flex;
       flex-flow: row wrap;
       justify-content: space-between;
       background-color: lightgray; }
       div.product > div.tea > div:nth-of-type(1) {
-        width: 60%;
         padding: 100px 150px 150px 0; }
         div.product > div.tea > div:nth-of-type(1) > h1 {
           width: fit-content;
@@ -894,17 +891,14 @@ div.wrapper {
             background-color: red;
             color: white; }
       div.product > div.tea > div:nth-of-type(2) {
-        width: 40%;
         padding-left: 100px;
         padding-top: 30px; }
     div.product > div.introduction {
-      width: inherit;
       background-color: whitesmoke;
       margin-top: 20px;
       border-top: 1px solid gray;
       padding: 5% 20%; }
       div.product > div.introduction > div.child-1 {
-        width: inherit;
         padding: 2%; }
         div.product > div.introduction > div.child-1 > h2 {
           font-family: iransans;
@@ -923,7 +917,6 @@ div.wrapper {
             font-size: 18px;
             color: red; }
       div.product > div.introduction > div.child-2 {
-        width: inherit;
         padding: 2%; }
         div.product > div.introduction > div.child-2 > h2 {
           font-family: iransans;
@@ -942,7 +935,6 @@ div.wrapper {
             font-size: 18px;
             color: red; }
       div.product > div.introduction > div.child-3 {
-        width: 100%;
         display: flex;
         flex-flow: row-reverse wrap;
         justify-content: space-around; }
@@ -965,18 +957,15 @@ div.wrapper {
 /* xl */
 @media screen and (min-width: 1200px) and (max-width: 1400px) {
   div.product {
-    width: 100%;
     background-color: whitesmoke;
     position: relative;
     top: 80px; }
     div.product > div.tea {
-      width: inherit;
       display: flex;
       flex-flow: row wrap;
       justify-content: space-between;
       background-color: lightgray; }
       div.product > div.tea > div:nth-of-type(1) {
-        width: 60%;
         padding: 100px 150px 150px 0; }
         div.product > div.tea > div:nth-of-type(1) > h1 {
           width: fit-content;
@@ -1015,17 +1004,14 @@ div.wrapper {
             background-color: red;
             color: white; }
       div.product > div.tea > div:nth-of-type(2) {
-        width: 40%;
         padding-left: 100px;
         padding-top: 30px; }
     div.product > div.introduction {
-      width: inherit;
       background-color: whitesmoke;
       margin-top: 20px;
       border-top: 1px solid gray;
       padding: 5% 20%; }
       div.product > div.introduction > div.child-1 {
-        width: inherit;
         padding: 2%; }
         div.product > div.introduction > div.child-1 > h2 {
           font-family: iransans;
@@ -1044,7 +1030,6 @@ div.wrapper {
             font-size: 18px;
             color: red; }
       div.product > div.introduction > div.child-2 {
-        width: inherit;
         padding: 2%; }
         div.product > div.introduction > div.child-2 > h2 {
           font-family: iransans;
@@ -1063,7 +1048,6 @@ div.wrapper {
             font-size: 18px;
             color: red; }
       div.product > div.introduction > div.child-3 {
-        width: 100%;
         display: flex;
         flex-flow: row-reverse wrap;
         justify-content: space-around; }
@@ -1086,18 +1070,15 @@ div.wrapper {
 /* lg */
 @media screen and (min-width: 992px) and (max-width: 1200px) {
   div.product {
-    width: 100%;
     background-color: whitesmoke;
     position: relative;
     top: 80px; }
     div.product > div.tea {
-      width: inherit;
       display: flex;
       flex-flow: row wrap;
       justify-content: space-between;
       background-color: lightgray; }
       div.product > div.tea > div:nth-of-type(1) {
-        width: 60%;
         padding: 100px 150px 150px 0; }
         div.product > div.tea > div:nth-of-type(1) > h1 {
           width: fit-content;
@@ -1136,17 +1117,14 @@ div.wrapper {
             background-color: red;
             color: white; }
       div.product > div.tea > div:nth-of-type(2) {
-        width: 40%;
         padding-left: 100px;
         padding-top: 30px; }
     div.product > div.introduction {
-      width: inherit;
       background-color: whitesmoke;
       margin-top: 20px;
       border-top: 1px solid gray;
       padding: 5% 8%; }
       div.product > div.introduction > div.child-1 {
-        width: inherit;
         padding: 2%; }
         div.product > div.introduction > div.child-1 > h2 {
           font-family: iransans;
@@ -1165,7 +1143,6 @@ div.wrapper {
             font-size: 18px;
             color: red; }
       div.product > div.introduction > div.child-2 {
-        width: inherit;
         padding: 2%; }
         div.product > div.introduction > div.child-2 > h2 {
           font-family: iransans;
@@ -1184,7 +1161,6 @@ div.wrapper {
             font-size: 18px;
             color: red; }
       div.product > div.introduction > div.child-3 {
-        width: 100%;
         display: flex;
         flex-flow: row-reverse wrap;
         justify-content: space-around; }
@@ -1207,18 +1183,15 @@ div.wrapper {
 /* md */
 @media screen and (min-width: 768px) and (max-width: 992px) {
   div.product {
-    width: 100%;
     background-color: whitesmoke;
     position: relative;
     top: 80px; }
     div.product > div.tea {
-      width: inherit;
       display: flex;
       flex-flow: row wrap;
       justify-content: space-between;
       background-color: lightgray; }
       div.product > div.tea > div:nth-of-type(1) {
-        width: 60%;
         padding: 20% 15% 15% 0; }
         div.product > div.tea > div:nth-of-type(1) > h1 {
           width: fit-content;
@@ -1257,19 +1230,16 @@ div.wrapper {
             background-color: red;
             color: white; }
       div.product > div.tea > div:nth-of-type(2) {
-        width: 40%;
         padding-left: 5%;
         padding-top: 10%; }
         div.product > div.tea > div:nth-of-type(2) > img {
           width: 100%; }
     div.product > div.introduction {
-      width: 100%;
       background-color: whitesmoke;
       margin-top: 20px;
       border-top: 1px solid gray;
       padding: 2% 3%; }
       div.product > div.introduction > div.child-1 {
-        width: inherit;
         padding: 2%; }
         div.product > div.introduction > div.child-1 > h2 {
           font-family: iransans;
@@ -1288,7 +1258,6 @@ div.wrapper {
             font-size: 18px;
             color: red; }
       div.product > div.introduction > div.child-2 {
-        width: inherit;
         padding: 2%; }
         div.product > div.introduction > div.child-2 > h2 {
           font-family: iransans;
@@ -1307,7 +1276,6 @@ div.wrapper {
             font-size: 18px;
             color: red; }
       div.product > div.introduction > div.child-3 {
-        width: 100%;
         display: flex;
         flex-flow: row-reverse wrap;
         justify-content: space-around;
@@ -1331,18 +1299,15 @@ div.wrapper {
 /* sm */
 @media screen and (min-width: 576px) and (max-width: 768px) {
   div.product {
-    width: 100%;
     background-color: whitesmoke;
     position: relative;
     top: 160px; }
     div.product > div.tea {
-      width: inherit;
       display: flex;
       flex-flow: row wrap;
       justify-content: space-between;
       background-color: lightgray; }
       div.product > div.tea > div:nth-of-type(1) {
-        width: 60%;
         padding: 10% 5% 15% 0; }
         div.product > div.tea > div:nth-of-type(1) > h1 {
           width: fit-content;
@@ -1381,19 +1346,16 @@ div.wrapper {
             background-color: red;
             color: white; }
       div.product > div.tea > div:nth-of-type(2) {
-        width: 40%;
         padding-left: 5%;
         padding-top: 10%; }
         div.product > div.tea > div:nth-of-type(2) > img {
           width: 100%; }
     div.product > div.introduction {
-      width: 100%;
       background-color: whitesmoke;
       margin-top: 20px;
       border-top: 1px solid gray;
       padding: 2% 3%; }
       div.product > div.introduction > div.child-1 {
-        width: inherit;
         padding: 2%; }
         div.product > div.introduction > div.child-1 > h2 {
           font-family: iransans;
@@ -1412,7 +1374,6 @@ div.wrapper {
             font-size: 18px;
             color: red; }
       div.product > div.introduction > div.child-2 {
-        width: inherit;
         padding: 2%; }
         div.product > div.introduction > div.child-2 > h2 {
           font-family: iransans;
@@ -1431,7 +1392,6 @@ div.wrapper {
             font-size: 18px;
             color: red; }
       div.product > div.introduction > div.child-3 {
-        width: 100%;
         display: flex;
         flex-flow: row wrap;
         justify-content: center;
@@ -1456,18 +1416,15 @@ div.wrapper {
 /* xs */
 @media screen and (max-width: 576px) {
   div.product {
-    width: 100%;
     background-color: whitesmoke;
     position: relative;
     top: 160px; }
     div.product > div.tea {
-      width: inherit;
       display: flex;
       flex-flow: column wrap;
       justify-content: space-between;
       background-color: lightgray; }
       div.product > div.tea > div:nth-of-type(1) {
-        width: 100%;
         padding: 10% 5% 5% 0; }
         div.product > div.tea > div:nth-of-type(1) > h1 {
           width: fit-content;
@@ -1507,19 +1464,16 @@ div.wrapper {
             background-color: red;
             color: white; }
       div.product > div.tea > div:nth-of-type(2) {
-        width: 100%;
         padding-right: 15%;
         padding-top: 5%; }
         div.product > div.tea > div:nth-of-type(2) > img {
           width: 100%; }
     div.product > div.introduction {
-      width: 100%;
       background-color: whitesmoke;
       margin-top: 20px;
       border-top: 1px solid gray;
       padding: 2% 3%; }
       div.product > div.introduction > div.child-1 {
-        width: inherit;
         padding: 2%; }
         div.product > div.introduction > div.child-1 > h2 {
           font-family: iransans;
@@ -1538,7 +1492,6 @@ div.wrapper {
             font-size: 18px;
             color: red; }
       div.product > div.introduction > div.child-2 {
-        width: inherit;
         padding: 2%; }
         div.product > div.introduction > div.child-2 > h2 {
           font-family: iransans;
@@ -1557,7 +1510,6 @@ div.wrapper {
             font-size: 18px;
             color: red; }
       div.product > div.introduction > div.child-3 {
-        width: 100%;
         display: flex;
         flex-flow: column-reverse wrap;
         align-items: center;
@@ -1582,12 +1534,10 @@ div.wrapper {
 /* xxl */
 @media screen and (min-width: 1400px) {
   div.slider {
-    width: 100%;
     background-color: whitesmoke;
     border-top: 1px solid #2b2b2b;
     padding-top: 2%; }
     div.slider div.orange {
-      width: 100%;
       height: 40px;
       position: relative;
       margin-top: -2%;
@@ -1610,7 +1560,6 @@ div.wrapper {
           font-family: iransans;
           font-weight: normal; }
     div.slider > div.slider-1 {
-      width: 100%;
       position: relative; }
       div.slider > div.slider-1 > img {
         width: 100%; }
@@ -1653,7 +1602,6 @@ div.wrapper {
       div.slider > div.slider-1 > a:nth-of-type(1) {
         margin: 1% 22% 5% 0.1%; }
     div.slider > div.slider-2 {
-      width: 100%;
       position: relative; }
       div.slider > div.slider-2 > img {
         width: 100%; }
@@ -1698,7 +1646,6 @@ div.wrapper {
       div.slider > div.slider-2 > a:nth-of-type(1) {
         margin: 1% 22% 5% 0.1%; }
     div.slider > div.slider-3 {
-      width: 100%;
       position: relative; }
       div.slider > div.slider-3 > img {
         width: 100%; }
@@ -1743,7 +1690,6 @@ div.wrapper {
       div.slider > div.slider-3 > a:nth-of-type(1) {
         margin: 1% 22% 5% 0.1%; }
     div.slider > div.baner {
-      width: 100%;
       height: 300px;
       background-image: url("../../../images/slider/baner/recipe-baner-1.png");
       background-repeat: no-repeat;
@@ -1751,10 +1697,8 @@ div.wrapper {
       background-size: cover;
       background-attachment: fixed; }
     div.slider > div.slider-4 {
-      width: 100%;
       background-color: whitesmoke; }
       div.slider > div.slider-4 > div:nth-of-type(1) {
-        width: 100%;
         padding: 2% 10% 3% 10%;
         background-color: whitesmoke; }
         div.slider > div.slider-4 > div:nth-of-type(1) > h2 {
@@ -1770,13 +1714,11 @@ div.wrapper {
             font-weight: normal;
             color: gray; }
       div.slider > div.slider-4 > div:nth-of-type(2) {
-        width: 100%;
         background-color: #cce3b0;
         display: flex;
         flex-flow: row wrap;
         justify-content: center; }
         div.slider > div.slider-4 > div:nth-of-type(2) > div {
-          width: 25%;
           padding: 0 0 5% 0;
           margin: 5% 0 5% 1%;
           background-color: whitesmoke; }
@@ -1826,12 +1768,10 @@ div.wrapper {
 /* xl */
 @media screen and (min-width: 1200px) and (max-width: 1400px) {
   div.slider {
-    width: 100%;
     background-color: whitesmoke;
     border-top: 1px solid #2b2b2b;
     padding-top: 2%; }
     div.slider div.orange {
-      width: 100%;
       height: 40px;
       position: relative;
       margin-top: -2%;
@@ -1854,7 +1794,6 @@ div.wrapper {
           font-family: iransans;
           font-weight: normal; }
     div.slider > div.slider-1 {
-      width: 100%;
       position: relative; }
       div.slider > div.slider-1 > img {
         width: 100%; }
@@ -1897,7 +1836,6 @@ div.wrapper {
       div.slider > div.slider-1 > a:nth-of-type(1) {
         margin: 1% 22% 5% 0.1%; }
     div.slider > div.slider-2 {
-      width: 100%;
       position: relative; }
       div.slider > div.slider-2 > img {
         width: 100%; }
@@ -1942,7 +1880,6 @@ div.wrapper {
       div.slider > div.slider-2 > a:nth-of-type(1) {
         margin: 1% 22% 5% 0.1%; }
     div.slider > div.slider-3 {
-      width: 100%;
       position: relative; }
       div.slider > div.slider-3 > img {
         width: 100%; }
@@ -1987,7 +1924,6 @@ div.wrapper {
       div.slider > div.slider-3 > a:nth-of-type(1) {
         margin: 1% 22% 5% 0.1%; }
     div.slider > div.baner {
-      width: 100%;
       height: 300px;
       background-image: url("../../../images/slider/baner/recipe-baner-1.png");
       background-repeat: no-repeat;
@@ -1995,10 +1931,8 @@ div.wrapper {
       background-size: cover;
       background-attachment: fixed; }
     div.slider > div.slider-4 {
-      width: 100%;
       background-color: whitesmoke; }
       div.slider > div.slider-4 > div:nth-of-type(1) {
-        width: 100%;
         padding: 2% 10% 3% 10%;
         background-color: whitesmoke; }
         div.slider > div.slider-4 > div:nth-of-type(1) > h2 {
@@ -2014,13 +1948,11 @@ div.wrapper {
             font-weight: normal;
             color: gray; }
       div.slider > div.slider-4 > div:nth-of-type(2) {
-        width: 100%;
         background-color: #cce3b0;
         display: flex;
         flex-flow: row wrap;
         justify-content: center; }
         div.slider > div.slider-4 > div:nth-of-type(2) > div {
-          width: 25%;
           padding: 0 0 5% 0;
           margin: 5% 0 5% 1%;
           background-color: whitesmoke; }
@@ -2070,12 +2002,10 @@ div.wrapper {
 /* lg */
 @media screen and (min-width: 992px) and (max-width: 1200px) {
   div.slider {
-    width: 100%;
     background-color: whitesmoke;
     border-top: 1px solid #2b2b2b;
     padding-top: 2%; }
     div.slider div.orange {
-      width: 100%;
       height: 40px;
       position: relative;
       margin-top: -2%;
@@ -2098,7 +2028,6 @@ div.wrapper {
           font-family: iransans;
           font-weight: normal; }
     div.slider > div.slider-1 {
-      width: 100%;
       position: relative; }
       div.slider > div.slider-1 > img {
         width: 100%; }
@@ -2141,7 +2070,6 @@ div.wrapper {
       div.slider > div.slider-1 > a:nth-of-type(1) {
         margin: 1% 22% 5% 0.1%; }
     div.slider > div.slider-2 {
-      width: 100%;
       position: relative; }
       div.slider > div.slider-2 > img {
         width: 100%; }
@@ -2186,7 +2114,6 @@ div.wrapper {
       div.slider > div.slider-2 > a:nth-of-type(1) {
         margin: 1% 22% 5% 0.1%; }
     div.slider > div.slider-3 {
-      width: 100%;
       position: relative; }
       div.slider > div.slider-3 > img {
         width: 100%; }
@@ -2231,7 +2158,6 @@ div.wrapper {
       div.slider > div.slider-3 > a:nth-of-type(1) {
         margin: 1% 22% 5% 0.1%; }
     div.slider > div.baner {
-      width: 100%;
       height: 300px;
       background-image: url("../../../images/slider/baner/recipe-baner-1.png");
       background-repeat: no-repeat;
@@ -2239,10 +2165,8 @@ div.wrapper {
       background-size: cover;
       background-attachment: fixed; }
     div.slider > div.slider-4 {
-      width: 100%;
       background-color: whitesmoke; }
       div.slider > div.slider-4 > div:nth-of-type(1) {
-        width: 100%;
         padding: 2% 10% 3% 10%;
         background-color: whitesmoke; }
         div.slider > div.slider-4 > div:nth-of-type(1) > h2 {
@@ -2258,13 +2182,11 @@ div.wrapper {
             font-weight: normal;
             color: gray; }
       div.slider > div.slider-4 > div:nth-of-type(2) {
-        width: 100%;
         background-color: #cce3b0;
         display: flex;
         flex-flow: row wrap;
         justify-content: center; }
         div.slider > div.slider-4 > div:nth-of-type(2) > div {
-          width: 25%;
           padding: 0 0 5% 0;
           margin: 5% 0 5% 1%;
           background-color: whitesmoke; }
@@ -2314,12 +2236,10 @@ div.wrapper {
 /* md */
 @media screen and (min-width: 768px) and (max-width: 992px) {
   div.slider {
-    width: 100%;
     background-color: whitesmoke;
     border-top: 1px solid #2b2b2b;
     padding-top: 2%; }
     div.slider div.orange {
-      width: 100%;
       height: 40px;
       position: relative;
       margin-top: -2%;
@@ -2342,7 +2262,6 @@ div.wrapper {
           font-family: iransans;
           font-weight: normal; }
     div.slider > div.slider-1 {
-      width: 100%;
       position: relative; }
       div.slider > div.slider-1 > img {
         width: 100%; }
@@ -2385,7 +2304,6 @@ div.wrapper {
       div.slider > div.slider-1 > a:nth-of-type(1) {
         margin: 1% 12% 5% 0.1%; }
     div.slider > div.slider-2 {
-      width: 100%;
       position: relative; }
       div.slider > div.slider-2 > img {
         width: 100%; }
@@ -2430,7 +2348,6 @@ div.wrapper {
       div.slider > div.slider-2 > a:nth-of-type(1) {
         margin: 1% 12% 5% 0.1%; }
     div.slider > div.slider-3 {
-      width: 100%;
       position: relative; }
       div.slider > div.slider-3 > img {
         width: 100%; }
@@ -2475,7 +2392,6 @@ div.wrapper {
       div.slider > div.slider-3 > a:nth-of-type(1) {
         margin: 1% 12% 5% 0.1%; }
     div.slider > div.baner {
-      width: 100%;
       height: 300px;
       background-image: url("../../../images/slider/baner/recipe-baner-1.png");
       background-repeat: no-repeat;
@@ -2483,10 +2399,8 @@ div.wrapper {
       background-size: cover;
       background-attachment: fixed; }
     div.slider > div.slider-4 {
-      width: 100%;
       background-color: whitesmoke; }
       div.slider > div.slider-4 > div:nth-of-type(1) {
-        width: 100%;
         padding: 2% 10% 3% 10%;
         background-color: whitesmoke; }
         div.slider > div.slider-4 > div:nth-of-type(1) > h2 {
@@ -2502,13 +2416,11 @@ div.wrapper {
             font-weight: normal;
             color: gray; }
       div.slider > div.slider-4 > div:nth-of-type(2) {
-        width: 100%;
         background-color: #cce3b0;
         display: flex;
         flex-flow: row wrap;
         justify-content: center; }
         div.slider > div.slider-4 > div:nth-of-type(2) > div {
-          flex-basis: 34%;
           padding: 0 0 5% 0;
           margin: 5% 0 5% 1%;
           background-color: whitesmoke; }
@@ -2558,12 +2470,10 @@ div.wrapper {
 /* sm */
 @media screen and (min-width: 576px) and (max-width: 768px) {
   div.slider {
-    width: 100%;
     background-color: whitesmoke;
     border-top: 1px solid #2b2b2b;
     padding-top: 2%; }
     div.slider div.orange {
-      width: 100%;
       height: 40px;
       position: relative;
       margin-top: -2%;
@@ -2586,7 +2496,6 @@ div.wrapper {
           font-family: iransans;
           font-weight: normal; }
     div.slider > div.slider-1 {
-      width: 100%;
       position: relative; }
       div.slider > div.slider-1 > img {
         width: 100%; }
@@ -2629,7 +2538,6 @@ div.wrapper {
       div.slider > div.slider-1 > a:nth-of-type(1) {
         margin: 1% 12% 5% 0.1%; }
     div.slider > div.slider-2 {
-      width: 100%;
       position: relative; }
       div.slider > div.slider-2 > img {
         width: 100%; }
@@ -2674,7 +2582,6 @@ div.wrapper {
       div.slider > div.slider-2 > a:nth-of-type(1) {
         margin: 1% 12% 5% 0.1%; }
     div.slider > div.slider-3 {
-      width: 100%;
       position: relative; }
       div.slider > div.slider-3 > img {
         width: 100%; }
@@ -2719,7 +2626,6 @@ div.wrapper {
       div.slider > div.slider-3 > a:nth-of-type(1) {
         margin: 1% 12% 5% 0.1%; }
     div.slider > div.baner {
-      width: 100%;
       height: 300px;
       background-image: url("../../../images/slider/baner/recipe-baner-1.png");
       background-repeat: no-repeat;
@@ -2727,10 +2633,8 @@ div.wrapper {
       background-size: cover;
       background-attachment: fixed; }
     div.slider > div.slider-4 {
-      width: 100%;
       background-color: whitesmoke; }
       div.slider > div.slider-4 > div:nth-of-type(1) {
-        width: 100%;
         padding: 2% 5% 3% 5%;
         background-color: whitesmoke; }
         div.slider > div.slider-4 > div:nth-of-type(1) > h2 {
@@ -2746,13 +2650,11 @@ div.wrapper {
             font-weight: normal;
             color: gray; }
       div.slider > div.slider-4 > div:nth-of-type(2) {
-        width: 100%;
         background-color: #cce3b0;
         display: flex;
         flex-flow: row wrap;
         justify-content: center; }
         div.slider > div.slider-4 > div:nth-of-type(2) > div {
-          flex-basis: 43%;
           padding: 0 0 5% 0;
           margin: 5% 0 5% 1%;
           background-color: whitesmoke; }
@@ -2802,14 +2704,12 @@ div.wrapper {
 /* xs */
 @media screen and (max-width: 576px) {
   div.slider {
-    width: 100%;
     position: relative;
     background-color: whitesmoke;
     border-top: 1px solid #2b2b2b;
     padding-top: 2%;
     margin-top: 10%; }
     div.slider div.orange {
-      width: 100%;
       margin-top: -1%; }
       div.slider div.orange > h2 {
         padding: 15px 15px 15px 60px;
@@ -2824,138 +2724,131 @@ div.wrapper {
           font-size: 20px;
           font-family: iransans;
           font-weight: normal; }
-    div.slider > div.slider-1 {
+    div.slider > div.slider-1 > img {
       width: 100%; }
-      div.slider > div.slider-1 > img {
-        width: 100%; }
-      div.slider > div.slider-1 > h3 {
-        margin-top: 5%;
-        padding: 2% 2% 0 2%;
-        width: 100%;
-        border-top: 1px solid #2b2b2b;
-        color: red;
-        font-family: yekan;
-        font-weight: normal;
-        font-size: 22px; }
-      div.slider > div.slider-1 > p {
-        margin-top: 1%;
-        padding: 0 2% 1% 2%;
-        width: 100%;
-        color: gray;
-        line-height: 35px;
-        font-family: iransans;
-        font-weight: normal;
-        text-align: justify;
-        font-size: 16px; }
-      div.slider > div.slider-1 > a {
-        display: inline-block;
-        text-decoration: none;
-        padding: 0 2% 0 2%;
-        width: fit-content;
-        background-color: whitesmoke;
-        border: 1px solid #2b2b2b;
-        border-radius: 8px;
-        color: gray;
-        line-height: 45px;
-        font-family: iransans;
-        font-weight: normal;
-        text-align: justify;
-        font-size: 16px; }
-        div.slider > div.slider-1 > a:hover {
-          background-color: red;
-          color: white; }
-      div.slider > div.slider-1 > a:nth-of-type(1) {
-        margin: 1% 2% 5% 0.1%; }
-    div.slider > div.slider-2 {
-      width: 100%; }
-      div.slider > div.slider-2 > img {
-        width: 100%; }
-      div.slider > div.slider-2 > h3 {
-        margin-top: 5%;
-        padding: 2% 2% 0 2%;
-        width: 100%;
-        border-top: 1px solid #2b2b2b;
-        color: red;
-        font-family: yekan;
-        font-weight: normal;
-        font-size: 22px; }
-      div.slider > div.slider-2 > p {
-        margin-top: 1%;
-        padding: 0 2% 1% 2%;
-        width: 100%;
-        color: gray;
-        line-height: 35px;
-        font-family: iransans;
-        font-weight: normal;
-        text-align: justify;
-        font-size: 16px; }
-        div.slider > div.slider-2 > p > span {
-          color: red; }
-      div.slider > div.slider-2 > a {
-        display: inline-block;
-        text-decoration: none;
-        padding: 0 2% 0 2%;
-        width: fit-content;
-        background-color: whitesmoke;
-        border: 1px solid #2b2b2b;
-        border-radius: 8px;
-        color: gray;
-        line-height: 45px;
-        font-family: iransans;
-        font-weight: normal;
-        text-align: justify;
-        font-size: 16px; }
-        div.slider > div.slider-2 > a:hover {
-          background-color: red;
-          color: white; }
-      div.slider > div.slider-2 > a:nth-of-type(1) {
-        margin: 1% 2% 5% 0.1%; }
-    div.slider > div.slider-3 {
-      width: 100%; }
-      div.slider > div.slider-3 > img {
-        width: 100%; }
-      div.slider > div.slider-3 > h3 {
-        margin-top: 5%;
-        padding: 2% 2% 0 2%;
-        width: 100%;
-        border-top: 1px solid #2b2b2b;
-        color: red;
-        font-family: yekan;
-        font-weight: normal;
-        font-size: 22px; }
-      div.slider > div.slider-3 > p {
-        margin-top: 1%;
-        padding: 0 2% 1% 2%;
-        width: 100%;
-        color: gray;
-        line-height: 35px;
-        font-family: iransans;
-        font-weight: normal;
-        text-align: justify;
-        font-size: 16px; }
-        div.slider > div.slider-3 > p > span {
-          color: red; }
-      div.slider > div.slider-3 > a {
-        display: inline-block;
-        text-decoration: none;
-        padding: 0 2% 0 2%;
-        width: fit-content;
-        background-color: whitesmoke;
-        border: 1px solid #2b2b2b;
-        border-radius: 8px;
-        color: gray;
-        line-height: 45px;
-        font-family: iransans;
-        font-weight: normal;
-        text-align: justify;
-        font-size: 16px; }
-        div.slider > div.slider-3 > a:hover {
-          background-color: red;
-          color: white; }
-      div.slider > div.slider-3 > a:nth-of-type(1) {
-        margin: 1% 2% 5% 0.1%; }
-    div.slider > div.baner {
+    div.slider > div.slider-1 > h3 {
+      margin-top: 5%;
+      padding: 2% 2% 0 2%;
       width: 100%;
+      border-top: 1px solid #2b2b2b;
+      color: red;
+      font-family: yekan;
+      font-weight: normal;
+      font-size: 22px; }
+    div.slider > div.slider-1 > p {
+      margin-top: 1%;
+      padding: 0 2% 1% 2%;
+      width: 100%;
+      color: gray;
+      line-height: 35px;
+      font-family: iransans;
+      font-weight: normal;
+      text-align: justify;
+      font-size: 16px; }
+    div.slider > div.slider-1 > a {
+      display: inline-block;
+      text-decoration: none;
+      padding: 0 2% 0 2%;
+      width: fit-content;
+      background-color: whitesmoke;
+      border: 1px solid #2b2b2b;
+      border-radius: 8px;
+      color: gray;
+      line-height: 45px;
+      font-family: iransans;
+      font-weight: normal;
+      text-align: justify;
+      font-size: 16px; }
+      div.slider > div.slider-1 > a:hover {
+        background-color: red;
+        color: white; }
+    div.slider > div.slider-1 > a:nth-of-type(1) {
+      margin: 1% 2% 5% 0.1%; }
+    div.slider > div.slider-2 > img {
+      width: 100%; }
+    div.slider > div.slider-2 > h3 {
+      margin-top: 5%;
+      padding: 2% 2% 0 2%;
+      width: 100%;
+      border-top: 1px solid #2b2b2b;
+      color: red;
+      font-family: yekan;
+      font-weight: normal;
+      font-size: 22px; }
+    div.slider > div.slider-2 > p {
+      margin-top: 1%;
+      padding: 0 2% 1% 2%;
+      width: 100%;
+      color: gray;
+      line-height: 35px;
+      font-family: iransans;
+      font-weight: normal;
+      text-align: justify;
+      font-size: 16px; }
+      div.slider > div.slider-2 > p > span {
+        color: red; }
+    div.slider > div.slider-2 > a {
+      display: inline-block;
+      text-decoration: none;
+      padding: 0 2% 0 2%;
+      width: fit-content;
+      background-color: whitesmoke;
+      border: 1px solid #2b2b2b;
+      border-radius: 8px;
+      color: gray;
+      line-height: 45px;
+      font-family: iransans;
+      font-weight: normal;
+      text-align: justify;
+      font-size: 16px; }
+      div.slider > div.slider-2 > a:hover {
+        background-color: red;
+        color: white; }
+    div.slider > div.slider-2 > a:nth-of-type(1) {
+      margin: 1% 2% 5% 0.1%; }
+    div.slider > div.slider-3 > img {
+      width: 100%; }
+    div.slider > div.slider-3 > h3 {
+      margin-top: 5%;
+      padding: 2% 2% 0 2%;
+      width: 100%;
+      border-top: 1px solid #2b2b2b;
+      color: red;
+      font-family: yekan;
+      font-weight: normal;
+      font-size: 22px; }
+    div.slider > div.slider-3 > p {
+      margin-top: 1%;
+      padding: 0 2% 1% 2%;
+      width: 100%;
+      color: gray;
+      line-height: 35px;
+      font-family: iransans;
+      font-weight: normal;
+      text-align: justify;
+      font-size: 16px; }
+      div.slider > div.slider-3 > p > span {
+        color: red; }
+    div.slider > div.slider-3 > a {
+      display: inline-block;
+      text-decoration: none;
+      padding: 0 2% 0 2%;
+      width: fit-content;
+      background-color: whitesmoke;
+      border: 1px solid #2b2b2b;
+      border-radius: 8px;
+      color: gray;
+      line-height: 45px;
+      font-family: iransans;
+      font-weight: normal;
+      text-align: justify;
+      font-size: 16px; }
+      div.slider > div.slider-3 > a:hover {
+        background-color: red;
+        color: white; }
+    div.slider > div.slider-3 > a:nth-of-type(1) {
+      margin: 1% 2% 5% 0.1%; }
+    div.slider > div.baner {
       height: 300px;
       background-image: url("../../../images/slider/baner/recipe-baner-1.png");
       background-repeat: no-repeat;
@@ -2963,10 +2856,8 @@ div.wrapper {
       background-size: cover;
       background-attachment: fixed; }
     div.slider > div.slider-4 {
-      width: 100%;
       background-color: whitesmoke; }
       div.slider > div.slider-4 > div:nth-of-type(1) {
-        width: 100%;
         padding: 2% 3% 3% 3%;
         background-color: whitesmoke; }
         div.slider > div.slider-4 > div:nth-of-type(1) > h2 {
@@ -2984,13 +2875,11 @@ div.wrapper {
             font-weight: normal;
             color: gray; }
       div.slider > div.slider-4 > div:nth-of-type(2) {
-        width: 100%;
         background-color: #cce3b0;
         display: flex;
         flex-flow: row wrap;
         justify-content: center; }
         div.slider > div.slider-4 > div:nth-of-type(2) > div {
-          flex-basis: 70%;
           padding: 0 0 5% 0;
           margin: 5% 0 5% 1%;
           background-color: whitesmoke; }

@@ -1,18 +1,18 @@
 /* xxl */
 @media screen and (min-width:1400px){
     div.product{
-        width: 100%;
+        // width: 100%;
         background-color: whitesmoke;
         position: relative;
         top:80px;
         >div.tea{
-            width: inherit;
+            // width: inherit;
             display: flex;
             flex-flow: row wrap;
             justify-content: space-between;
             background-color: lightgray;
             >div:nth-of-type(1){
-                width: 60%;
+                // width: 60%;
                 padding: 100px 150px 150px 0 ;
                 >h1{
                     width: fit-content;
@@ -57,19 +57,19 @@
                 }
             }
             >div:nth-of-type(2){
-                width: 40%;
+                // width: 40%;
                 padding-left: 100px;
                 padding-top: 30px;
             }
         }
         >div.introduction{
-            width: inherit;
+            // width: inherit;
             background-color: whitesmoke;
             margin-top: 20px;
             border-top: 1px solid gray;
             padding: 5% 20%;
             >div.child-1{
-                width: inherit;
+                // width: inherit;
                 padding: 2%;
                 >h2{
                     font-family: iransans;
@@ -92,7 +92,7 @@
                 }
             }
             >div.child-2{
-                width: inherit;
+                // width: inherit;
                 padding: 2%;
                 >h2{
                     font-family: iransans;
@@ -115,7 +115,7 @@
                 }
             }
             >div.child-3{
-                width: 100%;
+                // width: 100%;
                 display: flex;
                 flex-flow: row-reverse wrap;
                 justify-content: space-around;
@@ -144,18 +144,18 @@
 /* xl */
 @media screen and (min-width:1200px) and (max-width:1400px){    
     div.product{
-        width: 100%;
+        // width: 100%;
         background-color: whitesmoke;
         position: relative;
         top:80px;
         >div.tea{
-            width: inherit;
+            // width: inherit;
             display: flex;
             flex-flow: row wrap;
             justify-content: space-between;
             background-color: lightgray;
             >div:nth-of-type(1){
-                width: 60%;
+                // width: 60%;
                 padding: 100px 150px 150px 0 ;
                 >h1{
                     width: fit-content;
@@ -200,19 +200,19 @@
                 }
             }
             >div:nth-of-type(2){
-                width: 40%;
+                // width: 40%;
                 padding-left: 100px;
                 padding-top: 30px;
             }
         }
         >div.introduction{
-            width: inherit;
+            // width: inherit;
             background-color: whitesmoke;
             margin-top: 20px;
             border-top: 1px solid gray;
             padding: 5% 20%;
             >div.child-1{
-                width: inherit;
+                // width: inherit;
                 padding: 2%;
                 >h2{
                     font-family: iransans;
@@ -235,7 +235,7 @@
                 }
             }
             >div.child-2{
-                width: inherit;
+                // width: inherit;
                 padding: 2%;
                 >h2{
                     font-family: iransans;
@@ -258,7 +258,7 @@
                 }
             }
             >div.child-3{
-                width: 100%;
+                // width: 100%;
                 display: flex;
                 flex-flow: row-reverse wrap;
                 justify-content: space-around;
@@ -287,18 +287,18 @@
 /* lg */
 @media screen and (min-width:992px) and (max-width:1200px){
     div.product{
-        width: 100%;
+        // width: 100%;
         background-color: whitesmoke;
         position: relative;
         top:80px;
         >div.tea{
-            width: inherit;
+            // width: inherit;
             display: flex;
             flex-flow: row wrap;
             justify-content: space-between;
             background-color: lightgray;
             >div:nth-of-type(1){
-                width: 60%;
+                // width: 60%;
                 padding: 100px 150px 150px 0 ;
                 >h1{
                     width: fit-content;
@@ -343,19 +343,19 @@
                 }
             }
             >div:nth-of-type(2){
-                width: 40%;
+                // width: 40%;
                 padding-left: 100px;
                 padding-top: 30px;
             }
         }
         >div.introduction{
-            width: inherit;
+            // width: inherit;
             background-color: whitesmoke;
             margin-top: 20px;
             border-top: 1px solid gray;
             padding: 5% 8%;
             >div.child-1{
-                width: inherit;
+                // width: inherit;
                 padding: 2%;
                 >h2{
                     font-family: iransans;
@@ -378,7 +378,7 @@
                 }
             }
             >div.child-2{
-                width: inherit;
+                // width: inherit;
                 padding: 2%;
                 >h2{
                     font-family: iransans;
@@ -401,7 +401,7 @@
                 }
             }
             >div.child-3{
-                width: 100%;
+                // width: 100%;
                 display: flex;
                 flex-flow: row-reverse wrap;
                 justify-content: space-around;
@@ -430,18 +430,18 @@
 /* md */
 @media screen and (min-width:768px) and (max-width:992px){
     div.product{
-        width: 100%;
+        // width: 100%;
         background-color: whitesmoke;
         position: relative;
         top:80px;
         >div.tea{
-            width: inherit;
+            // width: inherit;
             display: flex;
             flex-flow: row wrap;
             justify-content: space-between;
             background-color: lightgray;
             >div:nth-of-type(1){
-                width: 60%;
+                // width: 60%;
                 padding: 20% 15% 15% 0 ;
                 >h1{
                     width: fit-content;
@@ -486,7 +486,7 @@
                 }
             }
             >div:nth-of-type(2){
-                width: 40%;
+                // width: 40%;
                 padding-left: 5%;
                 padding-top: 10%;
                 >img{
@@ -495,13 +495,13 @@
             }
         }
         >div.introduction{
-            width: 100%;
+            // width: 100%;
             background-color: whitesmoke;
             margin-top: 20px;
             border-top: 1px solid gray;
             padding: 2% 3%;
             >div.child-1{
-                width: inherit;
+                // width: inherit;
                 padding: 2%;
                 >h2{
                     font-family: iransans;
@@ -524,7 +524,7 @@
                 }
             }
             >div.child-2{
-                width: inherit;
+                // width: inherit;
                 padding: 2%;
                 >h2{
                     font-family: iransans;
@@ -547,7 +547,7 @@
                 }
             }
             >div.child-3{
-                width: 100%;
+                // width: 100%;
                 display: flex;
                 flex-flow: row-reverse wrap;
                 justify-content: space-around;
@@ -577,18 +577,18 @@
 /* sm */
 @media screen and (min-width:576px) and (max-width:768px){
     div.product{
-        width: 100%;
+        // width: 100%;
         background-color: whitesmoke;
         position: relative;
         top:160px;
         >div.tea{
-            width: inherit;
+            // width: inherit;
             display: flex;
             flex-flow: row wrap;
             justify-content: space-between;
             background-color: lightgray;
             >div:nth-of-type(1){
-                width: 60%;
+                // width: 60%;
                 padding: 10% 5% 15% 0 ;
                 >h1{
                     width: fit-content;
@@ -633,7 +633,7 @@
                 }
             }
             >div:nth-of-type(2){
-                width: 40%;
+                // width: 40%;
                 padding-left: 5%;
                 padding-top: 10%;
                 >img{
@@ -642,13 +642,13 @@
             }
         }
         >div.introduction{
-            width: 100%;
+            // width: 100%;
             background-color: whitesmoke;
             margin-top: 20px;
             border-top: 1px solid gray;
             padding: 2% 3%;
             >div.child-1{
-                width: inherit;
+                // width: inherit;
                 padding: 2%;
                 >h2{
                     font-family: iransans;
@@ -671,7 +671,7 @@
                 }
             }
             >div.child-2{
-                width: inherit;
+                // width: inherit;
                 padding: 2%;
                 >h2{
                     font-family: iransans;
@@ -694,7 +694,7 @@
                 }
             }
             >div.child-3{
-                width: 100%;
+                // width: 100%;
                 display: flex;
                 flex-flow: row wrap;
                 justify-content: center;
@@ -725,18 +725,18 @@
 /* xs */
 @media screen and (max-width:576px){
     div.product{
-        width: 100%;
+        // width: 100%;
         background-color: whitesmoke;
         position: relative;
         top:160px;
         >div.tea{
-            width: inherit;
+            // width: inherit;
             display: flex;
             flex-flow: column wrap;
             justify-content: space-between;
             background-color: lightgray;
             >div:nth-of-type(1){
-                width: 100%;
+                // width: 100%;
                 padding: 10% 5% 5% 0 ;
                 >h1{
                     width: fit-content;
@@ -782,7 +782,7 @@
                 }
             }
             >div:nth-of-type(2){
-                width: 100%;
+                // width: 100%;
                 padding-right: 15%;
                 padding-top: 5%;
                 >img{
@@ -791,13 +791,13 @@
             }
         }
         >div.introduction{
-            width: 100%;
+            // width: 100%;
             background-color: whitesmoke;
             margin-top: 20px;
             border-top: 1px solid gray;
             padding: 2% 3%;
             >div.child-1{
-                width: inherit;
+                // width: inherit;
                 padding: 2%;
                 >h2{
                     font-family: iransans;
@@ -820,7 +820,7 @@
                 }
             }
             >div.child-2{
-                width: inherit;
+                // width: inherit;
                 padding: 2%;
                 >h2{
                     font-family: iransans;
@@ -843,7 +843,7 @@
                 }
             }
             >div.child-3{
-                width: 100%;
+                // width: 100%;
                 display: flex;
                 flex-flow: column-reverse wrap;
                 align-items: center;
